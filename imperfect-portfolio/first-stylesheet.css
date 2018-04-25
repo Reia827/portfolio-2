@@ -1,0 +1,60 @@
+quote {
+  display: inline-block
+}
+
+img {
+  width:50 height 50;
+  }
+
+figure {
+  border: 3px solid pink;
+  padding: 1em;
+}
+
+container {
+  margin: 1em
+}
+  
+}
+header img {
+  margin: 2rem 0;
+}
+
+nav {
+  background-color:silver;
+  padding:1em;
+}
+
+div {
+    background-color: lightcyan;
+    width: 200px;
+    border: 15px solid lightblue;
+    padding: 25px;
+    margin: 25px;
+}
+
+/* unvisited link */
+a:link {
+    color: slateblue;
+}
+
+/* visited link */
+a:visited {
+    color: mediumpurple;
+}
+
+/* mouse over link */
+a:hover {
+    color: cadetblue;
+}
+
+/* selected link */
+a:active {
+    color: purple;
+}
+
+footer {
+  border-top-style:double;
+}
+
+
