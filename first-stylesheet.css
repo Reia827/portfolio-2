@@ -1,14 +1,26 @@
+*{
+  margin: .5rem;
+  padding: .5rem;
+  font-family: 'Raleway', sans-serif;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
 quote {
   display: inline-block
 }
 
 img {
   width:50 height 50;
+  object-position: right;
   }
 
 figure {
-  border: 3px solid pink;
+  border: 3px solid teal;
   padding: 1em;
+  margin: 25px;
 }
 
 container {
@@ -21,16 +33,17 @@ header img {
 }
 
 nav {
-  background-color:silver;
+  background-color:paleturquoise;
   padding:1em;
 }
 
 div {
-    background-color: lightcyan;
-    width: 200px;
-    border: 15px solid lightblue;
-    padding: 25px;
+    background-color: none;
+    width: 400px;
+    border: 10px solid teal;
+    padding: 1em;
     margin: 25px;
+    object-position: center;
 }
 
 /* unvisited link */
