@@ -37,6 +37,12 @@ nav {
   padding:1em;
 }
 
+article h2 {
+  color:teal;
+  font-weight: 900;
+  
+}
+
 div {
     background-color: none;
     width: 400px;
