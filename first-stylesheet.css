@@ -8,13 +8,9 @@ body, html {
     margin: 0;
 }
 
-quote {
-  display: inline-block
-}
-
 img {
-  width:50;
-  height: 50;
+  width:100%;
+  height:auto;
   object-position: right;
   }
 
@@ -34,7 +30,7 @@ header img {
 }
 
 nav {
-  background-color:paleturquoise;
+  background-color:lightgreen;
   padding:1em;
 }
 
